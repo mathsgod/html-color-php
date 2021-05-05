@@ -1,6 +1,6 @@
 # html-color-php
 
-##
+## Usage
 ```php
 use HTML\Color;
 
